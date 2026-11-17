@@ -1,7 +1,7 @@
 ---
 title: Welcome to Quartz
 ---
-# ПЕРЕВІРКА, ЙОБА
+# ПЕРЕВІРКА
 
 
 ![[little nonamie.png]]
