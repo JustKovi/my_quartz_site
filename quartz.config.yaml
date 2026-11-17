@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: justkovi.github.io/quartz
+  baseUrl: https://justkovi.github.io/my_quartz_site/
   ignorePatterns:
     - private
     - templates
